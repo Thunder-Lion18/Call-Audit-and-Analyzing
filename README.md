@@ -37,16 +37,20 @@ data/                     # Audio and processed data
 Getting Started
 1. Clone the repository:
    git clone https://github.com/gunjankhullar15/Call-audit.git
-2. Install dependencies:
+   
+3. Install dependencies:
    pip install -r requirements.txt
-3. Run the main application:
+   
+5. Run the main application:
    python main.py
 
 Requirements
+
 Python 3.10+
 See requirements.txt for all dependencies
 
 Usage
+
 Place your audio files in the data/ directory.
 Configure credentials in the credentials/ folder.
 Use the provided scripts for preprocessing, analysis, and scheduling.
