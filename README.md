@@ -1,18 +1,14 @@
-# Call-Audit-and-Analyzing
-
-Call Audit
-
+#Call Audit
 Call Audit is a Python-based project for analyzing and auditing call audio data. It leverages audio processing, data management, and scheduling utilities to extract insights from call recordings.
 
-Features
-
+#Features
 Audio preprocessing and feature extraction
 Data management and storage
 Scheduler for automated tasks
 Integration with OpenSMILE for audio analysis
 Secure credential management
 
-Project Structure
+#Project Structure
 
 create_tables.py           # Script to create database tables
 main.py                   # Main entry point for the application
